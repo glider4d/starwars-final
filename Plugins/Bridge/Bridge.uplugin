@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"Version": 50,
+	"VersionName": "2025.0.1",
+	"FriendlyName": "Bridge",
+	"Description": "Megascans material presets and functions (content only).",
+	"Category": "Editor",
+	"CreatedBy": "Quixel",
+	"CreatedByURL": "https://www.quixel.se",
+	"DocsURL": "https://help.quixel.com/hc/en-us/sections/360005846137-Quixel-Bridge-for-Unreal-Engine-5",
+	"MarketplaceURL": "",
+	"SupportURL": "support@quixel.com",
+	"EngineVersion": "5.8.0",
+	"EnabledByDefault": true,
+	"CanContainContent": true
+}
